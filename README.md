@@ -26,7 +26,7 @@ Rice, Maize, Chickpea, Kidney Beans, Pigeon Peas, Moth Beans, Mung Bean, Black G
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer     | Technology                        |
 |-----------|-----------------------------------|
